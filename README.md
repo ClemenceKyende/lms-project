@@ -100,3 +100,39 @@ Commit your changes and push them to your forked repository.
 Submit a pull request to the main repository for review.
 
 Happy hacking! 🚀
+
+# Git and GitHub Assignment
+
+## Summary
+
+This repository was used for an assignment focusing on Git, GitHub, and open-source practices. Here’s a summary of the tasks completed:
+
+1. **Cloned and Forked Repository**:
+   - Cloned the [original repository](https://github.com/ClemenceKyende/lms-project.git) to my local machine.
+   - Forked the repository to my GitHub account.
+
+2. **Branch Management and Changes**:
+   - Created a new branch `feature-update`.
+   - Made changes to [`summary.md`](summary.md) to simulate feature updates.
+   - Committed changes to `feature-update` branch.
+
+3. **Conflict Handling**:
+   - Created conflicts in [`summary.md`](summary.md) by modifying the same lines in different branches.
+   - Resolved conflicts by manually editing `summary.md` to keep relevant changes.
+   - Committed the resolved changes and merged back into `main` branch.
+
+4. **GitHub Pages**:
+   - Created [`index.html`](index.html) to enable GitHub Pages.
+   - Verified the published page at [GitHub Pages](https://clemencekyende.github.io/lms-project/).
+
+5. **Open Source Exploration**:
+   - Explored open-source projects related to my interests on GitHub.
+   - Opened an issue and engaged with the community in [lms-Project](https://github.com/ClemenceKyende/lms-project.git).
+
+## Conclusion
+
+This assignment provided hands-on experience with Git, GitHub, branch management, conflict resolution, GitHub Pages, and contributing to open-source projects.
+
+Feel free to explore the repository and review the commits for a detailed history of actions taken during the assignment.
+
+If you have any questions or feedback, please let me know!
